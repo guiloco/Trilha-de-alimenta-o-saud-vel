@@ -1,0 +1,1 @@
+alert('Jogo da Trilha carregado!');
